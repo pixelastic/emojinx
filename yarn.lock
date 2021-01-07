@@ -938,7 +938,7 @@ abab@^2.0.3:
   resolved "https://registry.yarnpkg.com/abab/-/abab-2.0.5.tgz#c0b678fb32d60fc1219c784d6a826fe385aeb79a"
   integrity sha512-9IK9EadsbHo6jLWIpxpR6pL0sazTXV6+SQv25ZB+F7Bj9mJNaOc4nCRabwd5M/JwmUa8idz6Eci6eKfJryPs6Q==
 
-aberlaas@^1.14.0:
+aberlaas@1.14.0:
   version "1.14.0"
   resolved "https://registry.yarnpkg.com/aberlaas/-/aberlaas-1.14.0.tgz#c2aafcf1b79a941803738de6ea0a54a96f7a204c"
   integrity sha512-+ACmJgFbwIRcobj/kmgU4ZVTvfVxu2PR8XJ8Jo/aZbF932KRlfkT5bi6xVQXDiKnuEb54+MefKa6mCJeBkbOmg==
